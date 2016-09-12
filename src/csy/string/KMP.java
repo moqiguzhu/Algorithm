@@ -2,7 +2,8 @@ package csy.string;
 
 /**
  * 
- * Description: 
+ * Description: The implementation of KMP algorithm.
+ * Search my ONENOTE notes to get the document.
  */
 public class KMP {
 	
